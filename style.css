@@ -464,7 +464,7 @@
   width: 410px;
   border-radius: 5px 0 0 5px;
   border-right: none;
-  /*border: transparent;*/
+  border: transparent;*/
   color: #ffffff;
 }
 
@@ -565,7 +565,7 @@
   width: 200px;
   border-radius: 5px 0 0 5px;
   border-right: none;
-  /*border: transparent;*/
+  border: transparent;*/
   color: #ffffff;
 }
 
